@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest
+		package="org.openprocessing.curtain"
+		class="Fabric"
+		title="Curtain"
+		author="Jared Counts"
+		icon="placeholder.png"
+		version="0.0.1" >
+	<uses-sdk
+			minSdkVersion="0"
+			targetSdkVersion="0" />
+	<inputs>
+	</inputs>
+	<requires-module >
+	</requires-module>
+</manifest>
